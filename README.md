@@ -1,4 +1,4 @@
-# Project: Longitudinal Analysis of Colistin Resistance Decoupling (2006-2024)
+# Longitudinal Analysis: The "Decoupling" of Colistin Resistance (2006–2024)
 
 ## Overview
 
