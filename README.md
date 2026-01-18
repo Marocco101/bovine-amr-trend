@@ -1,5 +1,17 @@
 # Longitudinal Analysis: The "Decoupling" of Colistin Resistance (2006–2024)
 
+## Summary & Key Implications
+
+**Main Objective:** To analyze longitudinal co-selection patterns between colistin resistance and Category D antibiotics (Trimethoprim-Sulfonamides).
+
+### Summary of Findings
+* **Statistical Decoupling:** Discovered a "decoupling" effect where colistin resistance became independent of external co-selection pressure.
+* **Shift in Explanatory Power:** The coefficient of determination ($R^2$) for trimethoprim-sulfonamide usage as a driver for colistin resistance dropped significantly from **0.72** (Phase 1) to **0.26** (Phase 3).
+* **Structural Break:** A statistical structural break was identified in 2017, marking the tipping point of this evolutionary shift.
+
+### Key Implication
+The evidence suggests that the drivers of resistance have shifted from external drug-mediated selection to internal genomic stabilization, justifying the "Genetic Trap" hypothesis.
+
 ## Overview
 
 This repository contains a longitudinal analysis (2006-2024) of antimicrobial resistance trends in bovine *E. coli* in France. 
